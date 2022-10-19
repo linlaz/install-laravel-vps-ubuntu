@@ -25,11 +25,6 @@ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/loca
 composer -v
 ```
 
-- Install Curl
-```
-sudo apt-get install curl
-```
-
 - Install nodejs
 ```
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
