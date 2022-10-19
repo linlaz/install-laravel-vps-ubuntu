@@ -19,6 +19,11 @@ sudo apt-get install php libapache2-mod-php php-common php-gmp php-mbstring php-
 sudo apt-get update
 ```
 
+- Install Curl
+```
+sudo apt-get install curl
+```
+
 - Install composer
 ```
 curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
